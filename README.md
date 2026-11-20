@@ -27,3 +27,5 @@ Node.js 18以上を入れた状態で、次を実行します。
 ```bash
 npm install
 npm start
+
+ブラウザで http://localhost:3000 を開きます。
